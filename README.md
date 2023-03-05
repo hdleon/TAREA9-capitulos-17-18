@@ -18,6 +18,25 @@
 
 # 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/116777118/222989067-b0653ed9-47df-459d-a11d-6c6becc6a5ca.png)
+
+![image](https://user-images.githubusercontent.com/116777118/222989079-37b1b613-d8bc-4e25-825c-3f927ad7c456.png)
+
+![image](https://user-images.githubusercontent.com/116777118/222989093-f55a173d-21c0-46f8-8027-7197418c76c3.png)
+
+![image](https://user-images.githubusercontent.com/116777118/222989109-6b6ca66a-5b49-49f2-86c3-f6989f72b25d.png)
+
+![image](https://user-images.githubusercontent.com/116777118/222989138-61b1fecd-10fc-4234-aded-aa8b5de5c015.png)
+
+![image](https://user-images.githubusercontent.com/116777118/222989217-ab1146c9-4115-48df-81b2-3916a19a76b3.png)
+
+![image](https://user-images.githubusercontent.com/116777118/222989253-8a062176-e2db-4933-9098-2a66aadbb2c6.png)
+
+![image](https://user-images.githubusercontent.com/116777118/222989347-bc0baa7b-59af-437e-998f-32e3113ba1c6.png)
+
+![image](https://user-images.githubusercontent.com/116777118/222989433-69ad0165-d4c6-4055-9ec4-5f765b75409e.png)
+
+![image](https://user-images.githubusercontent.com/116777118/222989459-6ab606b9-4ca2-4a82-a001-898411324526.png)
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ## PROBLEMAS Unidad 17: Ejercicios pares ##
